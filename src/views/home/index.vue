@@ -23,7 +23,7 @@
   </Transition>
 
   <Transition name="h">
-    <div v-show="show" style="background-color:red;"></div>
+    <div v-show="show" style="background-color:blue;"></div>
   </Transition>
 </template>
 
